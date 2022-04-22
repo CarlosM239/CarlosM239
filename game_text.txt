@@ -1,0 +1,25 @@
+1  You are lost in the woods when all of a sudden a door appears in front of you.
+2  It looks like the door is locked but there are some items on the ground that might open it.
+3  On the ground you find a wrench and a lockpick. You can only take one, which item do you want to take?
+4  You pick up the wrench and try to open the door but fail. Would you like to swap it for the lockpick?
+5  You pick up the lockpick and try to open the door.
+6  You opened the door! You walk through and feel a strange force surround your body.
+
+7  You are instantly teleported to the bottom of mountain Edhellond.
+8  the greatest and tallest mountain in all of Avallone. You squint your tiny eyes to try and make
+9  out a strange object you see at the top. It's a castle!
+10  Would you like to continue or run away?
+
+
+13  After days of climbing you finally make it to the top.
+14  It's freezing cold and nightfall approaches as you walk up to the castle door.
+15  You try to open the door, but it is frozen. You are going to need something to melt the ice.
+16  You search the area and find a tinderbox and some dry logs. Would you like to pick it up?
+17  Using the tinderbox and dry logs you light a fire and melt the ice on the door.
+
+18  The area becomes surrounded by smoke that can be seen miles away.
+19  You hear a loud screech! AHHHHHHHHHH! It's a vampire!
+
+
+16  You knock on the frozen door and it starts to slowly open by itself until you hear a loud bang and the
+17  door stops moving. It's pitch dark inside and you begin to enter the castle...
